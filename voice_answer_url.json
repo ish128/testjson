@@ -1,0 +1,17 @@
+{
+    "ncco": [
+        {
+            "action": "talk",
+            "text": "Connecting you to touser"
+        },
+        {
+            "endpoint": [
+                {
+                    "type": "app",
+                    "user": "touser"
+                }
+            ],
+            "action": "connect"
+        }
+    ]
+}

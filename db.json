@@ -2,13 +2,13 @@
     "ncco": [
         {
             "action": "talk",
-            "text": "Connecting you to p_tchunjae_w08_11664"
+            "text": "Connecting you to tchunjae_w08"
         },
         {
             "endpoint": [
                 {
                     "type": "app",
-                    "user": "p_tchunjae_w08_11664"
+                    "user": "tchunjae_w08"
                 }
             ],
             "action": "connect"

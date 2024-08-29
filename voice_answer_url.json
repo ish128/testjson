@@ -1,17 +1,1 @@
-{
-    "ncco": [
-        {
-            "action": "talk",
-            "text": "Connecting you to touser"
-        },
-        {
-            "endpoint": [
-                {
-                    "type": "app",
-                    "user": "touser"
-                }
-            ],
-            "action": "connect"
-        }
-    ]
-}
+{"ncco":[{"action":"talk","text":"Connecting you to p_tchunjae_w08_11664"},{"endpoint":[{"type":"app","user":"p_tchunjae_w08_11664"}],"action":"connect"}]}
